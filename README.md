@@ -1,7 +1,7 @@
 # mlproject_with_aws_Sagemaker_reg
 stduent scoring prediction using aws sagemaker with deployment
 
-Sure! Here's a concise and clear **GitHub README project description** for your AWS SageMaker Linear Learner project:
+ concise and clear **GitHub README project description** for my AWS SageMaker Linear Learner project:
 
 ---
 
